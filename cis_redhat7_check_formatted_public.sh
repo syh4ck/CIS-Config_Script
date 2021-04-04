@@ -1,7 +1,7 @@
 #!/bin/bash -
 #CIS Security Audit Script
 #Date: 3-1-17
-#Author: Matt Wilson
+#Author: Anand Murugan
 #This script will run LEVEL ONE checks on the Center for Internet Security
 #checklist. It will dump the report to /root/cis_report.txt for review.
 #The output results can be crosschecked for their status and the sysadmin
